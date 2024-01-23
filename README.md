@@ -6,5 +6,5 @@
        alt="snake" /></a>
 </div>
 
-#To play
+# HOW TO START
 -Run the SnakeGame.java file in the SRC folder
